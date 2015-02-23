@@ -1,2 +1,2 @@
 # hello_fdw
-Hello world program for PostgreSQL's foreign data wrapper(FDW)
+A "Hello World" for Postgres' Foreign Data Wrapper (FDW)
